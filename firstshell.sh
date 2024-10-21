@@ -2,7 +2,7 @@
 
 echo "MY NAME IS ASHOK"
 
-GIT
+GIT---- Is a s/w used for versioning 
 ------------
 git init -- git reposirty is created .git hidden folder git will track by using .git
 git 
